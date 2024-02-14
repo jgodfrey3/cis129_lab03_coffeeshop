@@ -38,7 +38,7 @@ finalCost = sumCost * 1.06
 salesTax = sumCost * 0.06
 
 #prints the opening border and first line of user's receipt
-print('***************************************\nMy Coffee and Muffin Shop Receipt')
+print("***************************************\nJared's Cafe Receipt")
 
 #prints the dollar amount spent on coffee
 print(str(coffeeNumber),
